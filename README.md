@@ -27,22 +27,18 @@
 
 ---
 
-### 🏆 Trophies & Atividades
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yauim&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
----
-
 ### 🚀 Meus Últimos Projetos
 
-> Aqui vão alguns dos meus projetos recentes 👇  
-> _(Atualize com seus repositórios reais)_
+> Aqui estão alguns dos meus projetos recentes 👇
 
-- 🔗 [Projeto 1 – Nome do Projeto](#)
-- 🔗 [Projeto 2 – Nome do Projeto](#)
-- 🔗 [Projeto 3 – Nome do Projeto](#)
+- 🔗 [**Aplicação de Cálculos**](https://github.com/Yauim/aplicacao-calculos)  
+  Aplicação Java voltada para operações matemáticas e cálculos automatizados.
+
+- 📱 [**App Flutter To-Do**](https://github.com/Fabiolazg/app_flutter_todo)  
+  Aplicativo de lista de tarefas desenvolvido em **Flutter**, com foco em produtividade e interface intuitiva.
+
+- 🌦️ [**ClimaTempo App**](https://github.com/Fabiolazg/climatempo)  
+  Aplicativo que consome API de clima em tempo real, exibindo previsões com interface moderna.
 
 ---
 
@@ -64,7 +60,8 @@
 
 ### ⚡ Curiosidades
 - ☕ Amante de café e boas conversas sobre código  
-- 🚀 Sempre buscando novos desafios e aprendizados  
+- 🚀 Sempre buscando novos desafios e aprendizados
+- 🎮 Jogador amador (Dota2,Cs)  
 - 💡 “A melhor maneira de prever o futuro é criá-lo.”  
 
 ---
